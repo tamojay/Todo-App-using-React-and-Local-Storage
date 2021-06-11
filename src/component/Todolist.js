@@ -42,7 +42,8 @@ function TodoList() {
 
   return (
     <>
-      <h1>WHAT DO YOU WANT TO DO TODAY?</h1>
+      <h1>YOUR TODO APP</h1>
+      <h5>Made by Tamojay</h5>
       <Todoform onSubmit={addTodo} />
       <Todo
         todos={todos}
