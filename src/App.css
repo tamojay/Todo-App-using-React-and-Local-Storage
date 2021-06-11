@@ -22,9 +22,15 @@ body {
 }
 
 h1 {
-  margin: 32px 0;
+  margin: 32px 0 10px 0;
   color: #fff;
   font-size: 22px;
+}
+
+h5 {
+  margin: 6px 0;
+  color: #fff;
+  font-size: 12px;
 }
 
 .complete {
